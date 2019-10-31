@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\I508889\Desktop\test-sonar\my-app\src\App.test.tsx">
+    <testCase name="renders without crashing" duration="26"/>
+  </file>
+  <file path="C:\Users\I508889\Desktop\test-sonar\my-app\src\index.spec.tsx">
+    <testCase name="test example should return constant" duration="3"/>
+  </file>
+</testExecutions>
